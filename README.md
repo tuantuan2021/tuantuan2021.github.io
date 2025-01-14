@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +20,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <i class="bi bi-play-circle-fill text-primary me-2"></i>小儿英语早教启蒙免费全集分享
+                <i class="bi bi-play-circle-fill text-primary me-2">小儿英语早教启蒙免费全集分享</i>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
