@@ -73,6 +73,7 @@
 
     <footer class="bg-light py-4">
         <div class="container text-center">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
             <p>免责声明：本网站分享的资源、教程等，均来源于互联网公开分享的内容，仅供学习和交流之用，严禁商业牟利行为！如需更好的使用体验，请支持正版，如有侵权请联系删除！</p>
         </div>
     </footer>
