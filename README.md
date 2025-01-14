@@ -34,7 +34,10 @@
             <i class="bi bi-info-circle-fill me-2"></i>
             <strong>网盘地址有效期永久，如果链接失效隔天会重新分享！</strong>
         </div>
-
+        <div class="container">
+            <a class="navbar-brand" href="https://www.huibenzy.com">
+                <i class="bi bi-play-circle-fill text-primary me-2">需要更多资源请点击huibenzy.com</i>
+            </a>
             <section id="series" class="mb-5">
             <div class="card mb-4">
                 <div class="card-header bg-primary text-white">
