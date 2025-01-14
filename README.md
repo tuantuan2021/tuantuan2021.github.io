@@ -67,7 +67,6 @@
                                         </a>
                                     </td>
                                 </tr>
-    </main>
 
     <footer class="bg-light py-4">
         <div class="container text-center">
@@ -76,5 +75,3 @@
     </footer>
 
     <script src="js/bootstrap.bundle.min.js"></script>
-</body>
-</html>
