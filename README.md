@@ -35,9 +35,7 @@
             <strong>网盘地址有效期永久，如果链接失效隔天会重新分享！</strong>
         </div>
 
-        <!-- 系列合集 -->
-        <section id="series" class="mb-5">
-            <h3 class="border-start border-primary border-4 ps-3 mb-4">系列合集</h3>
+            <section id="series" class="mb-5">
             <div class="card mb-4">
                 <div class="card-header bg-primary text-white">
                     <i class="bi bi-collection-play me-2"></i>SSS儿歌动画（英语）合集（2011-2024）
@@ -69,8 +67,6 @@
                                         </a>
                                     </td>
                                 </tr>
-                               
-
     </main>
 
     <footer class="bg-light py-4">
