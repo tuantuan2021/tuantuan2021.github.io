@@ -1,5 +1,3 @@
-好的，我已经按照您的要求将“皮普和波西全套”和对应的链接分开放在两行中，并确保名称与链接一一对应。以下是更新后的代码：
-HTML复制
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -40,17 +38,21 @@ HTML复制
         .table {
             border-radius: 10px;
             overflow: hidden;
+            width: 100%; /* 表格宽度自适应 */
         }
         .table th, .table td {
             vertical-align: middle;
+            text-align: center; /* 表格内容居中 */
         }
-        .btn-outline-primary {
-            background-color: transparent;
-            border-color: #007bff;
-            color: #007bff;
-        }
-        .btn-outline-primary:hover {
+        .btn-download {
             background-color: #007bff;
+            color: white;
+            border-color: #007bff;
+            font-weight: bold;
+            padding: 0.5rem 1rem; /* 增大按钮尺寸 */
+        }
+        .btn-download:hover {
+            background-color: #0056b3;
             color: white;
         }
         .footer {
@@ -109,7 +111,7 @@ HTML复制
                                         </td>
                                         <td><span class="badge bg-success">JAYN</span></td>
                                         <td>
-                                            <a href="https://pan.quark.cn/s/48e698911a35" class="btn btn-sm btn-outline-primary">
+                                            <a href="https://pan.quark.cn/s/48e698911a35" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
                                             </a>
                                         </td>
@@ -119,9 +121,45 @@ HTML复制
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
                                             皮普和波西全套
                                         </td>
-                                        <td><span class="badge bg-success">提取码</span></td>
+                                        <td><span class="badge bg-success">无</span></td>
                                         <td>
-                                            <a href="https://pan.quark.cn/s/669ee76879a2" class="btn btn-sm btn-outline-primary">
+                                            <a href="https://pan.quark.cn/g/31c96c8ab3" class="btn btn-sm btn-download">
+                                                <i class="bi bi-download me-1"></i>下载
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-play-circle-fill text-primary me-2"></i>
+                                            牛津阅读树全16级
+                                        </td>
+                                        <td><span class="badge bg-success">无</span></td>
+                                        <td>
+                                            <a href="https://pan.quark.cn/g/31c96c8ab3" class="btn btn-sm btn-download">
+                                                <i class="bi bi-download me-1"></i>下载
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-play-circle-fill text-primary me-2"></i>
+                                            DK英语10000词
+                                        </td>
+                                        <td><span class="badge bg-success">无</span></td>
+                                        <td>
+                                            <a href="https://pan.quark.cn/s/64dd3d46148a" class="btn btn-sm btn-download">
+                                                <i class="bi bi-download me-1"></i>下载
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-play-circle-fill text-primary me-2"></i>
+                                            Wow English全9季
+                                        </td>
+                                        <td><span class="badge bg-success">无</span></td>
+                                        <td>
+                                            <a href="https://pan.quark.cn/s/fca178c56689" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
                                             </a>
                                         </td>
@@ -144,4 +182,3 @@ HTML复制
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-现在，“SSS儿歌动画（英语）”和“皮普和波西全套”分别在两行中，每个名称都对应各自的链接。如果您还有其他需求，请随时告诉我！
