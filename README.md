@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>早教笔记免费分享，小儿英语早教启蒙免费,SSS儿歌动画（英语）网盘资源免费分享</title>
-    <meta name="description" content="早教笔记免费分享，小儿英语早教启蒙免费-小儿英语早教启蒙免费，儿童英语启蒙动画短片，小儿早教启蒙绘本免费，提供网盘在线播放及下载">
+    <title>早教笔记免费分享，小儿英语早教启蒙免费</title>
+    <meta name="description" content="早教笔记免费分享，小儿英语早教启蒙免费，提供多种儿童英语启蒙动画和学习资源的免费下载链接。">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="shortcut icon" href="favicon.ico">
@@ -36,7 +36,7 @@
             padding: 20px;
         }
         .table {
-            width: 100%; /* 确保表格宽度自适应 */
+            width: 100%;
             margin-bottom: 1rem;
             color: #212529;
             border-collapse: collapse;
@@ -45,7 +45,7 @@
             padding: 0.75rem;
             vertical-align: top;
             border-top: 1px solid #dee2e6;
-            text-align: center; /* 内容居中 */
+            text-align: center;
         }
         .table thead th {
             vertical-align: bottom;
@@ -56,7 +56,7 @@
             color: white;
             border-color: #007bff;
             font-weight: bold;
-            padding: 0.5rem 1rem; /* 增大按钮尺寸 */
+            padding: 0.5rem 1rem;
         }
         .btn-download:hover {
             background-color: #0056b3;
@@ -70,6 +70,29 @@
         }
         .footer p {
             margin: 0;
+        }
+        .content-section {
+            margin-top: 20px;
+        }
+        .content-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        .content-section p {
+            font-size: 1rem;
+            line-height: 1.6;
+        }
+        .content-section img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        @media (max-width: 768px) {
+            .table-responsive {
+                display: block;
+                width: 100%;
+                overflow-x: auto;
+            }
         }
     </style>
 </head>
@@ -128,7 +151,7 @@
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
                                             皮普和波西全套
                                         </td>
-                                        <td><span class="badge bg-success">无</span></td>
+                                        <td><span class="badge bg-success">提取码</span></td>
                                         <td>
                                             <a href="https://pan.quark.cn/g/31c96c8ab3" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
@@ -140,7 +163,7 @@
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
                                             牛津阅读树全16级
                                         </td>
-                                        <td><span class="badge bg-success">无</span></td>
+                                        <td><span class="badge bg-success">提取码</span></td>
                                         <td>
                                             <a href="https://pan.quark.cn/g/31c96c8ab3" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
@@ -152,7 +175,7 @@
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
                                             DK英语10000词
                                         </td>
-                                        <td><span class="badge bg-success">无</span></td>
+                                        <td><span class="badge bg-success">提取码</span></td>
                                         <td>
                                             <a href="https://pan.quark.cn/s/64dd3d46148a" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
@@ -164,7 +187,7 @@
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
                                             Wow English全9季
                                         </td>
-                                        <td><span class="badge bg-success">无</span></td>
+                                        <td><span class="badge bg-success">提取码</span></td>
                                         <td>
                                             <a href="https://pan.quark.cn/s/fca178c56689" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
@@ -179,6 +202,33 @@
             </section>
         </div>
     </main>
+
+    <section class="content-section container">
+        <h2>推荐理由</h2>
+        <p>儿童英语启蒙动画推荐：《Pip and Posy 波西和皮普》——友谊与成长的温馨故事</p>
+        <img src="https://example.com/image.jpg" alt="Pip and Posy">
+        <p>《Pip and Posy 波西和皮普》是一部适合3-6岁儿童的英语启蒙动画，以英国作家Axel Scheffler创作的同名儿童图书系列为基础改编而成。这部动画通过轻松有趣的故事和可爱的角色设计，为孩子们营造了一个温馨的英语学习环境。动画配有字幕，有助于孩子们在观赏的同时自然习得基础英语表达，是一部值得家长和孩子一起观看的优质启蒙作品。</p>
+
+        <h3>动画亮点</h3>
+        <ol>
+            <li>
+                <strong>英文原版动画，沉浸式语言学习</strong>
+                <p>《Pip and Posy 波西和皮普》以地道的英语对白呈现，每集都围绕主角小兔子波西和小老鼠皮普展开有趣的互动和冒险，孩子们可以在纯英文环境中学习日常用语，并通过角色的互动对话模仿真实的语言情境。字幕的辅助使孩子能快速理解语句的含义，并提升英语听力和阅读能力。</p>
+            </li>
+            <li>
+                <strong>改编自经典图书系列，角色有趣且生动</strong>
+                <p>动画改编自深受孩子们喜爱的Axel Scheffler的图书系列。书中可爱的动物角色通过动画被赋予了更加生动的形象，波西和皮普在日常冒险中的温馨互动和幽默情节让孩子们很容易产生共鸣。此外，角色形象设计简洁，色彩明亮，孩子们会很快喜欢上他们，带着兴趣去学习英语。</p>
+            </li>
+            <li>
+                <strong>适合3-6岁儿童，社交和情感教育丰富</strong>
+                <p>动画中的每一集都以短小有趣的故事呈现，波西和皮普在一起玩耍、分享和帮助的过程中，展示了友谊、合作和理解。比如他们互相分享食物、一起在沙坑中玩耍、互帮互助等场景，这些温馨的互动为孩子们提供了如何与人相处的好榜样。同时，在观看中，孩子们不仅能学到语言表达，还能领悟到友谊的重要性，并学习如何面对小摩擦或冲突。</p>
+            </li>
+            <li>
+                <strong>画风与教育元素</strong>
+                <p>《Pip and Posy 波西和皮普》色彩明亮、画风温馨可爱，简洁清新的角色设计带给人一种舒适的观感。剧情不仅充满惊喜和欢笑，也精心融入了一些教育元素，例如情感表达、解决问题和分享合作等。通过这样的“寓教于乐”，孩子们可以在看动画的过程中获得情商与社交技能的启发，同时增强对英语的兴趣。</p>
+            </li>
+        </ol>
+    </section>
 
     <footer class="footer bg-light py-4">
         <div class="container text-center">
