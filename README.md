@@ -206,7 +206,7 @@
             <img src="https://www.huibenzy.com/wp-content/uploads/2024/11/image.png" alt="Pip and Posy">
         <h2>推荐理由</h2>
         <p>儿童英语启蒙动画推荐：《Pip and Posy 波西和皮普》——友谊与成长的温馨故事</p>
-        <img src="https://example.com/image.jpg" alt="Pip and Posy">
+        <img src="https://www.huibenzy.com/wp-content/uploads/2024/11/image.png" alt="Pip and Posy">
         <p>《Pip and Posy 波西和皮普》是一部适合3-6岁儿童的英语启蒙动画，以英国作家Axel Scheffler创作的同名儿童图书系列为基础改编而成。这部动画通过轻松有趣的故事和可爱的角色设计，为孩子们营造了一个温馨的英语学习环境。动画配有字幕，有助于孩子们在观赏的同时自然习得基础英语表达，是一部值得家长和孩子一起观看的优质启蒙作品。</p>
 
         <h3>动画亮点</h3>
