@@ -121,7 +121,7 @@
             <section id="series" class="mb-5">
                 <div class="card mb-4">
                     <div class="card-header bg-primary text-white">
-                        <i class="bi bi-collection-play me-2"></i>SSS儿歌动画（英语）合集（2011-2024）
+                        <i class="bi bi-collection-play me-2"></i>儿歌动画（英语）合集（2011-2024）huibenzy.com
                     </div>
                     <div class="card-body">
                         <div class="table-responsive">
