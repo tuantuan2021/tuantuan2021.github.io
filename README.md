@@ -195,7 +195,6 @@
                                         </td>
                                     </tr>
                                 </tbody>
-                            </table>
                         </div>
                     </div>
                 </div>
@@ -203,7 +202,6 @@
         </div>
     </main>
     <section class="content-section container">
-            <img src="https://www.huibenzy.com/wp-content/uploads/2024/11/image.png" alt="Pip and Posy">
         <h2>推荐理由</h2>
         <p>儿童英语启蒙动画推荐：《Pip and Posy 波西和皮普》——友谊与成长的温馨故事</p>
         <img src="https://www.huibenzy.com/wp-content/uploads/2024/11/image.png" alt="Pip and Posy">
