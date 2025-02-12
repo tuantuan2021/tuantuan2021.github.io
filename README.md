@@ -1,5 +1,4 @@
-由于网络原因，我无法成功解析您提供的链接 https://pan.quark.cn/s/669ee76879a2。这可能是因为链接本身存在问题（例如链接无效或已过期），或者与网络连接有关。建议您检查链接的合法性，确保链接是正确的，并尝试重新加载网页或刷新链接。
-如果您需要将“皮普和波西全套”加入到之前的HTML代码中，我已经将相关内容添加到表格中。以下是更新后的代码：
+好的，我已经按照您的要求将“皮普和波西全套”和对应的链接分开放在两行中，并确保名称与链接一一对应。以下是更新后的代码：
 HTML复制
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -106,10 +105,21 @@ HTML复制
                                     <tr>
                                         <td>
                                             <i class="bi bi-play-circle-fill text-primary me-2"></i>
-                                            SSS儿歌动画（英语）<br>
-                                            皮普和波西全套
+                                            SSS儿歌动画（英语）
                                         </td>
                                         <td><span class="badge bg-success">JAYN</span></td>
+                                        <td>
+                                            <a href="https://pan.quark.cn/s/48e698911a35" class="btn btn-sm btn-outline-primary">
+                                                <i class="bi bi-download me-1"></i>下载
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <i class="bi bi-play-circle-fill text-primary me-2"></i>
+                                            皮普和波西全套
+                                        </td>
+                                        <td><span class="badge bg-success">提取码</span></td>
                                         <td>
                                             <a href="https://pan.quark.cn/s/669ee76879a2" class="btn btn-sm btn-outline-primary">
                                                 <i class="bi bi-download me-1"></i>下载
@@ -134,4 +144,4 @@ HTML复制
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-如果您需要进一步调整或添加其他内容，请随时告诉我！
+现在，“SSS儿歌动画（英语）”和“皮普和波西全套”分别在两行中，每个名称都对应各自的链接。如果您还有其他需求，请随时告诉我！
