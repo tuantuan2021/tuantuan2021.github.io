@@ -36,13 +36,20 @@
             padding: 20px;
         }
         .table {
-            border-radius: 10px;
-            overflow: hidden;
-            width: 100%; /* 表格宽度自适应 */
+            width: 100%; /* 确保表格宽度自适应 */
+            margin-bottom: 1rem;
+            color: #212529;
+            border-collapse: collapse;
         }
         .table th, .table td {
-            vertical-align: middle;
-            text-align: center; /* 表格内容居中 */
+            padding: 0.75rem;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+            text-align: center; /* 内容居中 */
+        }
+        .table thead th {
+            vertical-align: bottom;
+            border-bottom: 2px solid #dee2e6;
         }
         .btn-download {
             background-color: #007bff;
