@@ -192,14 +192,6 @@
                                             <a href="https://pan.quark.cn/s/fca178c56689" class="btn btn-sm btn-download">
                                                 <i class="bi bi-download me-1"></i>下载
                                             </a>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
     </main>
     <section class="content-section container">
         <h2>推荐理由</h2>
